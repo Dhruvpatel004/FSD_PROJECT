@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FSD_PROJECT/static/css/main.aaee99fb.css",
+    "main.js": "/FSD_PROJECT/static/js/main.b491f108.js",
+    "index.html": "/FSD_PROJECT/index.html",
+    "main.aaee99fb.css.map": "/FSD_PROJECT/static/css/main.aaee99fb.css.map",
+    "main.b491f108.js.map": "/FSD_PROJECT/static/js/main.b491f108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaee99fb.css",
+    "static/js/main.b491f108.js"
+  ]
+}
